@@ -1,4 +1,5 @@
 **Definicoes**
+
 Utilizei as entidades "Cliente", "Produto", "Pedido", "Pagamento", "Endereco" e "Detalhe_pedido" seus atributos e relações para modelar o Banco de Dados.
 
 **Entidades e atributos**
